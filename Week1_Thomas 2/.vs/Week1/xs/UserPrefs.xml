@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C067C4B2-3EDC-36B6-ECDC-BEEF8D25892A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TokenCollision.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RockTrigger.cs" Line="21" Column="47" />
+      <File FileName="Assets/Scripts/RockRotator.cs" Line="14" Column="52" />
+      <File FileName="Assets/Scripts/PlayerMove1.cs" Line="18" Column="37" />
+      <File FileName="Assets/Scripts/TokenCollision.cs" Line="8" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
