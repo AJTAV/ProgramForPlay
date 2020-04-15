@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D1DE9852-D154-E7FE-A134-0ACF973ACA4E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BurgerCollide.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BurgerCollide.cs" Line="21" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
